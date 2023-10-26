@@ -5,7 +5,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
 
 ---
 
-### Machine Learning Specialization (2022) 
+### Machine Learning Specialization (2022)
 [Website](https://www.coursera.org/specializations/machine-learning-introduction) | Instructor: Andrew Ng
 
 <table class="tg">
@@ -16,7 +16,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <th class="tg-yw4l"><b>Notes</b></th>
     <th class="tg-yw4l"><b>Author</b></th>
   </tr>
-  
+
   <tr>
     <td class="tg-yw4l">Introduction to Machine Learning</td>
     <td class="tg-yw4l">Supervised Machine Learning: Regression and Classification</td>
@@ -42,7 +42,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
 
 ---
 
-### MIT 6.S191 Introduction to Deep Learning (2022) 
+### MIT 6.S191 Introduction to Deep Learning (2022)
 [Website](http://introtodeeplearning.com/) | Lectures by: Alexander Amini and Ava Soleimany
 
 <table class="tg">
@@ -53,7 +53,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <th class="tg-yw4l"><b>Notes</b></th>
     <th class="tg-yw4l"><b>Author</b></th>
   </tr>
-  
+
   <tr>
     <td class="tg-yw4l">Introduction to Deep Learning</td>
     <td class="tg-yw4l">Basic fundamentals of neural networks and deep learning.</td>
@@ -89,7 +89,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-5-Deep-Reinforcement-Learning-8ecc8b16a5ad4fcc81b5c3ceb21608b5">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
-      
+
 </table>
 
 ---
@@ -105,7 +105,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <th class="tg-yw4l"><b>Notes</b></th>
     <th class="tg-yw4l"><b>Author</b></th>
   </tr>
-  
+
   <tr>
     <td class="tg-yw4l">Introduction to Simple Neural Networks for NLP</td>
     <td class="tg-yw4l">Provides an introduction to neural networks for NLP covering concepts like BOW, CBOW, and Deep CBOW</td>
@@ -117,7 +117,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
 
 ---
 
-### CS224N: Natural Language Processing with Deep Learning (2022) 
+### CS224N: Natural Language Processing with Deep Learning (2022)
 [Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Instructor: C‪hristopher Manning
 
 <table class="tg">
@@ -128,7 +128,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <th class="tg-yw4l"><b>Notes</b></th>
     <th class="tg-yw4l"><b>Author</b></th>
   </tr>
-  
+
   <tr>
     <td class="tg-yw4l">Introduction and Word Vectors</td>
     <td class="tg-yw4l">Introduction to NLP and Word Vectors.</td>
@@ -158,7 +158,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <th class="tg-yw4l"><b>Notes</b></th>
     <th class="tg-yw4l"><b>Author</b></th>
   </tr>
-  
+
   <tr>
     <td class="tg-yw4l">Introduction to Transformers</td>
     <td class="tg-yw4l">A short summary of attention and Transformers.</td>
@@ -188,7 +188,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <th class="tg-yw4l"><b>Notes</b></th>
     <th class="tg-yw4l"><b>Author</b></th>
   </tr>
-  
+
   <tr>
     <td class="tg-yw4l">Let's build GPT: from scratch, in code, spelled out</td>
     <td class="tg-yw4l">Detailed walkthrough of GPT</td>
@@ -210,7 +210,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <th class="tg-yw4l"><b>Notes</b></th>
     <th class="tg-yw4l"><b>Author</b></th>
   </tr>
-  
+
   <tr>
     <td class="tg-yw4l">Introduction to Diffusion Models</td>
     <td class="tg-yw4l">Technical overview of Diffusion Models</td>
@@ -227,11 +227,11 @@ A place to collaborate and share lecture notes on all topics related to machine 
   </tr>
 </table>
 
- 
+
 ---
 ### How To Contribute
 
-1) Identify a course and lecture from this [list](https://github.com/dair-ai/ML-YouTube-Courses). If you are working on notes for a lecture, please indicate by opening an issue. This avoids duplicate work. 
+1) Identify a course and lecture from this [list](https://github.com/dair-ai/ML-YouTube-Courses). If you are working on notes for a lecture, please indicate by opening an issue. This avoids duplicate work.
 2) Write your notes, preferably in a Google document, Notion document, or GitHub repo.
 3) We care about quality, so make sure to revise your notes before submitting.
 4) Once you are finished, open a PR here.
@@ -239,4 +239,4 @@ A place to collaborate and share lecture notes on all topics related to machine 
 
 If you have any questions, open an issue or reach out to me on [Twitter](https://twitter.com/omarsar0).
 
-Join our [Discord](https://discord.gg/FzNtjEK9dg). 
+Join our [Discord](https://discord.gg/FzNtjEK9dg).
